@@ -1,3 +1,4 @@
+location.replace('http://2015xiaodian.mc5.top')
 document.write(`
 <style>
     .mirror-1{
